@@ -1,3 +1,7 @@
+      ANALYSIS OF THE ORGANIC FOOD MARKET IN POLAND
+
+
+
 The purpose of this study is to assess the state of the organic food market in Poland. The research process was carried out on the basis of source data, as well as our own research conducted among consumers. Three specific objectives were distinguished:
 
 1. Analysis of the organic market in Poland, concerning the number of organic 
