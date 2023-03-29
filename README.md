@@ -13,7 +13,7 @@ działających w polskiej gospodarce), na ogólną wartość rynku produktów ek
 oraz poznanie jego przyszłych wartości. 
 3. Poznanie zachowań konsumentów na rynku żywności ekologicznej, w wyniku. 
 przeprowadzonych badań jakościowych i ilościowych, za pomocą badania 
-badanie ankietowe.
+ankietowego.
 
 Na koniec podsumowane zostaną wyniki analizy
 
@@ -34,6 +34,6 @@ operating in the Polish economy), on the overall value of the organic market,
 and to know its future values. 
 3. To learn about consumer behavior in the organic food market, as a result of the 
 qualitative and quantitative research conducted, by means of a survey 
-questionnaire survey.
+questionnaire.
 
 Finally, the results of the analysis will be summarized.
